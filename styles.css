@@ -1,9 +1,26 @@
+#mainHeading {
+    text-align: center;
+    font-style: italic;
+    color: red;
+    }
+    
 body {
-    margin:auto;
-    padding: 50px;
+    margin:8px;
+    padding: 75px;
+    display: block;
+   background-color: darkslategray;
+}
+div.funParagraph {
+    color: green;
 }
   
-
   footer {
-    padding: 25px;
+       text-align: right;
+    padding: 75px;
+  }
+
+  img {
+    display: block;
+    width: 35%;
+    margin: auto;
   }
